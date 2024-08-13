@@ -9,13 +9,13 @@
 
         
         <link href='http://fonts.googleapis.com/css?family=Roboto:300,400,400i,700,700i,900|Montserrat:400,700|PT+Serif' rel='stylesheet' type='text/css'>
-        <link rel="stylesheet" type="text/css"  href='css/clear.css' />
-        <link rel="stylesheet" type="text/css"  href='css/common.css' />
-        <link rel="stylesheet" type="text/css"  href='css/font-awesome.min.css' />
-        <link rel="stylesheet" type="text/css"  href='css/carouFredSel.css' />
-        <link rel="stylesheet" type="text/css"  href='css/prettyPhoto.css' />
-        <link rel="stylesheet" type="text/css"  href='css/sm-clean.css' />
-        <link rel="stylesheet" type="text/css"  href='style.css' />
+        <link rel="stylesheet" type="text/css"  href='https://xidzsos1iw91t8x0.public.blob.vercel-storage.com/css/clear.css' />
+        <link rel="stylesheet" type="text/css"  href='https://xidzsos1iw91t8x0.public.blob.vercel-storage.com/css/common.css' />
+        <link rel="stylesheet" type="text/css"  href='https://xidzsos1iw91t8x0.public.blob.vercel-storage.com/css/font-awesome.min.css' />
+        <link rel="stylesheet" type="text/css"  href='https://xidzsos1iw91t8x0.public.blob.vercel-storage.com/css/carouFredSel.css' />
+        <link rel="stylesheet" type="text/css"  href='https://xidzsos1iw91t8x0.public.blob.vercel-storage.com/css/prettyPhoto.css' />
+        <link rel="stylesheet" type="text/css"  href='https://xidzsos1iw91t8x0.public.blob.vercel-storage.com/css/sm-clean.css' />
+        <link rel="stylesheet" type="text/css"  href='https://xidzsos1iw91t8x0.public.blob.vercel-storage.com/css/style.css' />
 
         
 
